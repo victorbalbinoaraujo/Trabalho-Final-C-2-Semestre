@@ -8,7 +8,6 @@ struct Candidatos
     int nota;
 };
 
-
 int main()
 {
     int num_candidatos = 1;
