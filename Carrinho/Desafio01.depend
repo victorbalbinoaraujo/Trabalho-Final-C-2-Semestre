@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1606743864 source:c:\users\pedro\desktop\p2 lp\desafio01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"produto.h"
+
+1606743488 c:\users\pedro\desktop\p2 lp\desafio01\produto.h
+
+1606743984 source:c:\users\pedro\desktop\p2 lp\desafio01\produto.c
+	<stdio.h>
+	<stdlib.h>
+	"produto.h"
+
