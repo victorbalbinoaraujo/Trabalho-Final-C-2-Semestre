@@ -196,7 +196,7 @@ void deposito(struct Conta *conta, float valor)
 {
     system("cls");
 
-    if(valor >= 0)
+    if(valor > 0)
     {
         conta->saldo += valor;
         lista[num_conta].saldo += valor;
